@@ -1,6 +1,6 @@
 <br />
 <h2 style="text-align: center;">
-<span style="color: red;">⚠⚠⚠James has asked me to take down the site, so I will follow his request to take it down. The site will turn into something else in the future.⚠⚠⚠;</span></h2>
+<span style="color: red;">⚠⚠⚠James has asked me to take down the site, so I will follow his request to take it down. The site will turn into something else in the future.⚠⚠⚠</span></h2>
 <br />
 <br />
 <br />
