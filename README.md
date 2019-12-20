@@ -1,6 +1,6 @@
 <br />
 <h2 style="text-align: center;">
-<span style="color: red;">⚠⚠⚠On behalf of James Fazzalari this website will be taken down soon. ⚠⚠⚠&nbsp;</span></h2>
+<span style="color: red;">⚠⚠⚠On behalf of James Fazzalari this website will be taken down soon. ⚠⚠⚠;</span></h2>
 <br />
 <br />
 <br />
