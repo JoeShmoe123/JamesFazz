@@ -25,7 +25,7 @@ If you need further help, please reach us at <a href="mailto:support@armorgames.
 <h2>
 This game requires Flash. Flash is blocked.</h2>
 To unblock Flash in Chrome go to <strong>Settings &gt; Site Settings &gt; Flash</strong> and unblock Flash from running. Once done, you must enable Flash for the game once you refresh the page.<br />
-If you need further help, please reach us at <a href="mailto:support@armorgames.com">support@armorgames.com</a></div>
+</a></div>
 </div>
 <div class="" id="gamefilearea" style="height: 600px;">
 <object align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" height="600" id="gamefile" width="800">
