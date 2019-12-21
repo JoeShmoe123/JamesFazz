@@ -40,5 +40,6 @@ Last Update-11/20/19</div>
 <tr><td class="tr-caption" style="text-align: center;">Not James, But He Told Me To Put It Here</td></tr>
 </tbody></table>
 </div>
-<script data-ad-client="ca-pub-8052951957478605" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script data-ad-client="ca-pub-8052951957478605" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+</script>
 
