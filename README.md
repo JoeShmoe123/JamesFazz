@@ -6,4 +6,4 @@ The website is expected to be back up in early to mid-January of 2020.</h3>
 <param name="movie" value"https://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/22478/original/mega_miner.swf?1521379608">
 <embed src"https://img-hws.y8.com/cloud/y8-flash-game/contents/item_versions/flash_games/22478/original/mega_miner.swf?1521379608" width="700" height="500">
 </embed>
-</object
+</object>
